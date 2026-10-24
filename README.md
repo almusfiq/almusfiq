@@ -62,7 +62,7 @@ Exploring skin image classification, model evaluation, robustness, and explainab
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=amjony1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=almusfiq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjony1&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 
