@@ -2,7 +2,6 @@
 
 # Hey, I'm Musfiq! 👋
 
-### Full-Stack Developer | MERN Stack | AI/ML Enthusiast
 
 Building practical applications and exploring intelligent solutions through code.
 
