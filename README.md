@@ -5,7 +5,7 @@
 
 Building practical applications and exploring intelligent solutions through code.
 
-[![GitHub](https://img.shields.io/badge/GitHub-amjony1-181717?style=for-the-badge&logo=github)](https://github.com/amjony1)
+[![GitHub](https://img.shields.io/badge/GitHub-amjony1-181717?style=for-the-badge&logo=github)](https://github.com/almusfiq)
 
 </div>
 
