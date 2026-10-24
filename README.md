@@ -13,11 +13,11 @@ Building practical applications and exploring intelligent solutions through code
 
 ## 👨‍💻 About Me
 
-- 🎓 Interested in software engineering and computer science.
-- 💻 Building full-stack web applications.
-- 🚀 Working on an Office Management System.
-- 🧠 Exploring machine learning and computer vision.
-- 🌱 Always learning and improving my development skills.
+-  Interested in software engineering and computer science.
+-  Building full-stack web applications.
+-  Working on an Office Management System.
+-  Exploring machine learning and computer vision.
+-  Always learning and improving my development skills.
 
 ---
 
