@@ -8,7 +8,7 @@
   <a href="mailto:musfijony@gmail.com">
     <img src="https://img.shields.io/badge/Email-musfijony%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
   </a>
-  <a href="[https://linkedin.com](https://www.linkedin.com/in/almusfiq/)">
+  <a href="[[https://linkedin.com](https://www.linkedin.com/in/almusfiq)](https://www.linkedin.com/in/almusfiq/)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="https://github.com/almusfiq">
