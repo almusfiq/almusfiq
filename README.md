@@ -1,79 +1,116 @@
 <div align="center">
 
-# Hey, I'm Musfiq! 👋
+# 💫 Hi there, I'm <span style="color:#6C63FF;">Musfiq</span>! 👋
 
+### 🚀 Software Developer & Tech Enthusiast | Crafting Clean Code & Building Impactful Projects
 
-Building practical applications and exploring intelligent solutions through code.
+<p align="center">
+  <a href="mailto:musfijony@gmail.com">
+    <img src="https://img.shields.io/badge/Email-musfijony%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/amjony1">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=amjony1&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-almusfiq-181717?style=for-the-badge&logo=github)](https://github.com/almusfiq)
+---
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Passionate+about+Building+Modern+Software;Constantly+Learning+%26+Exploring+New+Tech;Turning+Ideas+Into+Functional+Code;Open+to+Collaboration+%26+Open+Source" alt="Typing SVG" />
 
 </div>
 
----
+<br />
 
 ## 👨‍💻 About Me
 
--  Interested in software engineering and computer science.
--  Building full-stack web applications.
--  Working on an Office Management System.
--  Exploring machine learning and computer vision.
--  Always learning and improving my development skills.
+- 🔭 **Focus:** Exploring modern technologies, architecting scalable solutions, and shipping clean software.
+- 💡 **Curiosity:** Passionate about performance optimization, clean code architecture, and modern developer tooling.
+- 🌱 **Continuous Growth:** Continuously expanding my knowledge across full-stack development, modern APIs, and algorithms.
+- 💬 **Ask me about:** Software design, web development, debugging, and cool tech tools.
+- 📫 **Reach me at:** [musfijony@gmail.com](mailto:musfijony@gmail.com)
 
----
+<br />
 
-## 🛠️ Tech Stack
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### AI / ML & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-### 🏢 Office Management System
-A full-stack application designed to support employee management, departmental coordination, and task workflows.
-
-**Technologies:** React · TypeScript · Node.js · MongoDB
-
-### 🧠 DERM12345 — Machine Learning Research
-Exploring skin image classification, model evaluation, robustness, and explainable AI.
-
-**Technologies:** Python · Machine Learning · Computer Vision
-
----
-
-## 📊 GitHub Statistics
+## 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=almusfiq&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,cpp" alt="Languages" />
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almusfiq&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+### 🌐 Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap" alt="Frameworks" />
+</p>
+
+### 🗄️ Databases & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" alt="Databases" />
+</p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" alt="Tools" />
+</p>
 
 </div>
 
----
+<br />
+
+## 📊 GitHub Analytics & Activity
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amjony1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjony1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amjony1&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff" alt="GitHub Streak" />
+
+  <br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amjony1&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&hide_border=true" alt="Activity Graph" width="95%" />
+</div>
+
+<br />
+
+## 🏆 Featured Highlights
+
+```yaml
+Name: Musfiq
+Location: Worldwide / Remote 🌍
+Mindset: "Always Be Coding & Iterating"
+Current Goal: Mastering advanced distributed architectures & open source contributions
+Interests: [Software Architecture, Web Technologies, Open Source, UI/UX]
+```
+
+<br />
+
+## 🤝 Let's Connect!
 
 <div align="center">
 
-### 💬 Let's Connect and Build Something!
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:musfijony@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amjony1)
 
-Thanks for visiting my profile! ⭐
+<br />
+
+⭐️ *Don't hesitate to star my repositories or reach out for collaboration!*
 
 </div>
