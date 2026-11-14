@@ -92,7 +92,7 @@
 ## 🏆 Featured Highlights
 
 ```yaml
-Name: Musfiq
+Name: Al Musfiq
 Location: Worldwide / Remote 🌍
 Mindset: "Always Be Coding & Iterating"
 Current Goal: Mastering advanced distributed architectures & open source contributions
