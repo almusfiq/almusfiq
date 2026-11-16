@@ -63,31 +63,52 @@
 
 <br />
 
+
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <table border="0">
+
+  <!-- GitHub Stats + Top Languages -->
+  <table border="0" width="100%">
     <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=almusfiq&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9" alt="GitHub Stats" />
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=almusfiq&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9"
+          alt="GitHub Statistics"
+          height="180"
+        />
       </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almusfiq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+      <td width="50%" align="center">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=almusfiq&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"
+          alt="Most Used Languages"
+          height="180"
+        />
       </td>
     </tr>
   </table>
 
-  <br />
+  <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almusfiq&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff" alt="GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=almusfiq&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=79c0ff"
+    alt="GitHub Contribution Streak"
+    width="90%"
+  />
 
-  <br />
+  <br/><br/>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almusfiq&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&hide_border=true" alt="Activity Graph" width="95%" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=almusfiq&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ffffff&hide_border=true"
+    alt="GitHub Activity Graph"
+    width="95%"
+  />
+
 </div>
 
-<br />
+<br/>
 
 ## 🏆 Featured Highlights
 
